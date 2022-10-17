@@ -1,0 +1,380 @@
+1) Algoritmo Construtivo Guloso:
+
+Qualidade: 1786
+Tempo de Processamento: 0.015 segundos
+Semente de Randomização:270001
+
+*****************************************************************************************************************************************************
+
+2) Algoritmo Construtivo Guloso Randomizado e Adaptativo:
+
+***Para alfa = 0.05 e 500 iterações:***
+
+1ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.125 segundos.
+Semente de Randomização: 270001
+
+2ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+3ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+4ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.109 segundos.
+Semente de Randomização: 270001
+
+5ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.109 segundos.
+Semente de Randomização: 270001
+
+6ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+7ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.109 segundos.
+Semente de Randomização: 270001
+
+8ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.109 segundos.
+Semente de Randomização: 270001
+
+9ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.078 segundos.
+Semente de Randomização: 270001
+
+10ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.14 segundos.
+Semente de Randomização: 270001
+
+O tempo médio de execução para alfa=0.05 foi de 0.1058 segundos e a sua qualidade média foi 0
+
+========================================================================================================
+
+***Para alfa = 0.1 e 500 iterações:***
+
+1ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+2ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+3ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.109 segundos.
+Semente de Randomização: 270001
+
+4ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+5ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.125 segundos.
+Semente de Randomização: 270001
+
+6ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+7ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.109 segundos.
+Semente de Randomização: 270001
+
+8ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.109 segundos.
+Semente de Randomização: 270001
+
+9ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.14 segundos.
+Semente de Randomização: 270001
+
+10ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.109 segundos.
+Semente de Randomização: 270001
+
+O tempo médio de execução para alfa=0.1 foi de 0.1073 segundos e a sua qualidade média foi 0
+
+========================================================================================================
+
+***Para alfa = 0.15 e 500 iterações:***
+
+1ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+2ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+3ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.078 segundos.
+Semente de Randomização: 270001
+
+4ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.14 segundos.
+Semente de Randomização: 270001
+
+5ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.14 segundos.
+Semente de Randomização: 270001
+
+6ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.125 segundos.
+Semente de Randomização: 270001
+
+7ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+8ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.109 segundos.
+Semente de Randomização: 270001
+
+9ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.078 segundos.
+Semente de Randomização: 270001
+
+10ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.109 segundos.
+Semente de Randomização: 270001
+
+O tempo médio de execução para alfa=0.15 foi de 0.1058 segundos e a sua qualidade média foi 0
+
+========================================================================================================
+
+***Para alfa = 0.3 e 500 iterações:***
+
+1ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.109 segundos.
+Semente de Randomização: 270001
+
+2ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+3ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.109 segundos.
+Semente de Randomização: 270001
+
+4ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.078 segundos.
+Semente de Randomização: 270001
+
+5ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.109 segundos.
+Semente de Randomização: 270001
+
+6ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.109 segundos.
+Semente de Randomização: 270001
+
+7ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+8ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.078 segundos.
+Semente de Randomização: 270001
+
+9ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+10ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+O tempo médio de execução para alfa=0.3 foi de 0.0964 segundos e a sua qualidade média foi 0
+
+========================================================================================================
+
+***Para alfa = 0.5 e 500 iterações:***
+
+1ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+2ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+3ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.078 segundos.
+Semente de Randomização: 270001
+
+4ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.062 segundos.
+Semente de Randomização: 270001
+
+5ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.109 segundos.
+Semente de Randomização: 270001
+
+6ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+7ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+8ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.109 segundos.
+Semente de Randomização: 270001
+
+9ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+10ª execução:
+Qualidade: 0
+Tempo de Processamento: 0.093 segundos.
+Semente de Randomização: 270001
+
+O tempo médio de execução para alfa=0.5 foi de 0.0916 segundos e a sua qualidade média foi 0
+
+========================================================================================================
+
+O tempo de execução médio final foi de 0.10138 segundos e a qualidade média final foi 0
+
+*****************************************************************************************************************************************************
+
+3) Algoritmo Construtivo Guloso Randomizado Reativo:
+
+1ª execução:
+O valor de alfa para a melhor solução é 0.5
+Qualidade: 1786
+Tempo de Processamento: 0.328 segundos.
+Semente de Randomização: 270001
+
+========================================================================================================
+
+2ª execução:
+O valor de alfa para a melhor solução é 0.5
+Qualidade: 1786
+Tempo de Processamento: 0.343 segundos.
+Semente de Randomização: 270001
+
+========================================================================================================
+
+3ª execução:
+O valor de alfa para a melhor solução é 0.5
+Qualidade: 1786
+Tempo de Processamento: 0.296 segundos.
+Semente de Randomização: 270001
+
+========================================================================================================
+
+4ª execução:
+O valor de alfa para a melhor solução é 0.5
+Qualidade: 1786
+Tempo de Processamento: 0.312 segundos.
+Semente de Randomização: 270001
+
+========================================================================================================
+
+5ª execução:
+O valor de alfa para a melhor solução é 0.5
+Qualidade: 1786
+Tempo de Processamento: 0.234 segundos.
+Semente de Randomização: 270001
+
+========================================================================================================
+
+6ª execução:
+O valor de alfa para a melhor solução é 0.5
+Qualidade: 1786
+Tempo de Processamento: 0.281 segundos.
+Semente de Randomização: 270001
+
+========================================================================================================
+
+7ª execução:
+O valor de alfa para a melhor solução é 0.5
+Qualidade: 1786
+Tempo de Processamento: 0.312 segundos.
+Semente de Randomização: 270001
+
+========================================================================================================
+
+8ª execução:
+O valor de alfa para a melhor solução é 0.5
+Qualidade: 1786
+Tempo de Processamento: 0.312 segundos.
+Semente de Randomização: 270001
+
+========================================================================================================
+
+9ª execução:
+O valor de alfa para a melhor solução é 0.5
+Qualidade: 1786
+Tempo de Processamento: 0.328 segundos.
+Semente de Randomização: 270001
+
+========================================================================================================
+
+10ª execução:
+O valor de alfa para a melhor solução é 0.5
+Qualidade: 1786
+Tempo de Processamento: 0.296 segundos.
+Semente de Randomização: 270001
+
+========================================================================================================
+
+O tempo de execução médio foi de 0.3042 segundos e a qualidade média foi 1786
+
+*****************************************************************************************************************************************************
+
